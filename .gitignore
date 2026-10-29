@@ -1,0 +1,11 @@
+build/
+work/
+renders/
+*.log
+.DS_Store
+Samples/SoCal/
+Samples/Fill/
+Samples/PercRaw/
+__pycache__/
+*.log
+JUCE/

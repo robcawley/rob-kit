@@ -1,0 +1,130 @@
+{
+  "viewBox": [
+    0,
+    0,
+    1000,
+    590
+  ],
+  "parts": [
+    {
+      "id": "crash-l",
+      "label": "CRASH L",
+      "note": 49,
+      "group": "cymbals",
+      "sample": "CrashL.wav",
+      "x": 110,
+      "y": 75,
+      "width": 218,
+      "height": 103,
+      "rotation": -12
+    },
+    {
+      "id": "crash-r",
+      "label": "CRASH R",
+      "note": 57,
+      "group": "cymbals",
+      "sample": "CrashR.wav",
+      "x": 633,
+      "y": 65,
+      "width": 236,
+      "height": 106,
+      "rotation": 10
+    },
+    {
+      "id": "ride",
+      "label": "RIDE",
+      "note": 51,
+      "group": "cymbals",
+      "sample": "Ride1.wav",
+      "x": 701,
+      "y": 214,
+      "width": 230,
+      "height": 102,
+      "rotation": -7
+    },
+    {
+      "id": "splash",
+      "label": "SPLASH",
+      "note": 55,
+      "group": "cymbals",
+      "sample": "Splash.wav",
+      "x": 439,
+      "y": 45,
+      "width": 130,
+      "height": 67,
+      "rotation": 3
+    },
+    {
+      "id": "hats",
+      "label": "HATS",
+      "note": 42,
+      "group": "hats",
+      "sample": "HiHatClosed.wav",
+      "x": 68,
+      "y": 242,
+      "width": 160,
+      "height": 83,
+      "rotation": -7
+    },
+    {
+      "id": "tom-low",
+      "label": "LOW TOM",
+      "note": 43,
+      "group": "toms",
+      "sample": "LowTom.wav",
+      "x": 641,
+      "y": 338,
+      "width": 204,
+      "height": 157,
+      "rotation": 2
+    },
+    {
+      "id": "tom-mid",
+      "label": "MID TOM",
+      "note": 47,
+      "group": "toms",
+      "sample": "MidTom.wav",
+      "x": 609,
+      "y": 202,
+      "width": 175,
+      "height": 139,
+      "rotation": 8
+    },
+    {
+      "id": "tom-high",
+      "label": "HIGH TOM",
+      "note": 48,
+      "group": "toms",
+      "sample": "HiTom.wav",
+      "x": 323,
+      "y": 134,
+      "width": 176,
+      "height": 138,
+      "rotation": -8
+    },
+    {
+      "id": "snare",
+      "label": "SNARE",
+      "note": 38,
+      "group": "snare",
+      "sample": "SnareCenter.wav",
+      "x": 201,
+      "y": 316,
+      "width": 189,
+      "height": 121,
+      "rotation": -4
+    },
+    {
+      "id": "kick",
+      "label": "KICK",
+      "note": 36,
+      "group": "kick",
+      "sample": "Kick1.wav",
+      "x": 372,
+      "y": 282,
+      "width": 277,
+      "height": 239,
+      "rotation": 0
+    }
+  ]
+}
