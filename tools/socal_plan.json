@@ -1,0 +1,902 @@
+[
+ {
+  "key": 37,
+  "name": "SideStick",
+  "layer": 1,
+  "velLo": 0,
+  "velHi": 14,
+  "start": 126458880,
+  "end": 126508982,
+  "vol": 2
+ },
+ {
+  "key": 37,
+  "name": "SideStick",
+  "layer": 2,
+  "velLo": 15,
+  "velHi": 30,
+  "start": 126517248,
+  "end": 126581171,
+  "vol": 3
+ },
+ {
+  "key": 37,
+  "name": "SideStick",
+  "layer": 3,
+  "velLo": 31,
+  "velHi": 42,
+  "start": 126589952,
+  "end": 126654699,
+  "vol": 3
+ },
+ {
+  "key": 37,
+  "name": "SideStick",
+  "layer": 4,
+  "velLo": 43,
+  "velHi": 59,
+  "start": 126663680,
+  "end": 126729513,
+  "vol": 3
+ },
+ {
+  "key": 37,
+  "name": "SideStick",
+  "layer": 5,
+  "velLo": 60,
+  "velHi": 73,
+  "start": 126738432,
+  "end": 126800130,
+  "vol": 3
+ },
+ {
+  "key": 37,
+  "name": "SideStick",
+  "layer": 6,
+  "velLo": 74,
+  "velHi": 87,
+  "start": 126809088,
+  "end": 126885958,
+  "vol": 2
+ },
+ {
+  "key": 37,
+  "name": "SideStick",
+  "layer": 7,
+  "velLo": 88,
+  "velHi": 95,
+  "start": 126895104,
+  "end": 126975924,
+  "vol": 4
+ },
+ {
+  "key": 37,
+  "name": "SideStick",
+  "layer": 8,
+  "velLo": 96,
+  "velHi": 105,
+  "start": 126984192,
+  "end": 127075803,
+  "vol": 2
+ },
+ {
+  "key": 37,
+  "name": "SideStick",
+  "layer": 9,
+  "velLo": 106,
+  "velHi": 121,
+  "start": 127084544,
+  "end": 127184917,
+  "vol": 3
+ },
+ {
+  "key": 37,
+  "name": "SideStick",
+  "layer": 10,
+  "velLo": 122,
+  "velHi": 127,
+  "start": 127194112,
+  "end": 127275866,
+  "vol": 2
+ },
+ {
+  "key": 40,
+  "name": "RimShot",
+  "layer": 1,
+  "velLo": 0,
+  "velHi": 17,
+  "start": 125421568,
+  "end": 125503340,
+  "vol": 5
+ },
+ {
+  "key": 40,
+  "name": "RimShot",
+  "layer": 2,
+  "velLo": 18,
+  "velHi": 30,
+  "start": 125511680,
+  "end": 125564932,
+  "vol": 4
+ },
+ {
+  "key": 40,
+  "name": "RimShot",
+  "layer": 3,
+  "velLo": 31,
+  "velHi": 41,
+  "start": 125574144,
+  "end": 125676844,
+  "vol": 6
+ },
+ {
+  "key": 40,
+  "name": "RimShot",
+  "layer": 4,
+  "velLo": 42,
+  "velHi": 61,
+  "start": 125685760,
+  "end": 125786206,
+  "vol": 4
+ },
+ {
+  "key": 40,
+  "name": "RimShot",
+  "layer": 5,
+  "velLo": 62,
+  "velHi": 78,
+  "start": 125795328,
+  "end": 125880656,
+  "vol": 4
+ },
+ {
+  "key": 40,
+  "name": "RimShot",
+  "layer": 6,
+  "velLo": 79,
+  "velHi": 88,
+  "start": 125889536,
+  "end": 125987835,
+  "vol": 3
+ },
+ {
+  "key": 40,
+  "name": "RimShot",
+  "layer": 7,
+  "velLo": 89,
+  "velHi": 97,
+  "start": 125996032,
+  "end": 126091180,
+  "vol": 3
+ },
+ {
+  "key": 40,
+  "name": "RimShot",
+  "layer": 8,
+  "velLo": 98,
+  "velHi": 107,
+  "start": 126099456,
+  "end": 126216735,
+  "vol": 2
+ },
+ {
+  "key": 40,
+  "name": "RimShot",
+  "layer": 9,
+  "velLo": 108,
+  "velHi": 117,
+  "start": 126225408,
+  "end": 126336095,
+  "vol": 2
+ },
+ {
+  "key": 40,
+  "name": "RimShot",
+  "layer": 10,
+  "velLo": 118,
+  "velHi": 127,
+  "start": 126345216,
+  "end": 126450111,
+  "vol": 1
+ },
+ {
+  "key": 32,
+  "name": "RimShotEdge",
+  "layer": 1,
+  "velLo": 0,
+  "velHi": 17,
+  "start": 124352512,
+  "end": 124455737,
+  "vol": 6
+ },
+ {
+  "key": 32,
+  "name": "RimShotEdge",
+  "layer": 2,
+  "velLo": 18,
+  "velHi": 35,
+  "start": 124464128,
+  "end": 124558658,
+  "vol": 4
+ },
+ {
+  "key": 32,
+  "name": "RimShotEdge",
+  "layer": 3,
+  "velLo": 36,
+  "velHi": 53,
+  "start": 124567552,
+  "end": 124645403,
+  "vol": 6
+ },
+ {
+  "key": 32,
+  "name": "RimShotEdge",
+  "layer": 4,
+  "velLo": 54,
+  "velHi": 68,
+  "start": 124654592,
+  "end": 124732323,
+  "vol": 6
+ },
+ {
+  "key": 32,
+  "name": "RimShotEdge",
+  "layer": 5,
+  "velLo": 69,
+  "velHi": 78,
+  "start": 124740608,
+  "end": 124830045,
+  "vol": 5
+ },
+ {
+  "key": 32,
+  "name": "RimShotEdge",
+  "layer": 6,
+  "velLo": 79,
+  "velHi": 88,
+  "start": 124838912,
+  "end": 124950929,
+  "vol": 4
+ },
+ {
+  "key": 32,
+  "name": "RimShotEdge",
+  "layer": 7,
+  "velLo": 89,
+  "velHi": 97,
+  "start": 124959744,
+  "end": 125070304,
+  "vol": 3
+ },
+ {
+  "key": 32,
+  "name": "RimShotEdge",
+  "layer": 8,
+  "velLo": 98,
+  "velHi": 107,
+  "start": 125078528,
+  "end": 125170853,
+  "vol": 3
+ },
+ {
+  "key": 32,
+  "name": "RimShotEdge",
+  "layer": 9,
+  "velLo": 108,
+  "velHi": 117,
+  "start": 125179904,
+  "end": 125271249,
+  "vol": 3
+ },
+ {
+  "key": 32,
+  "name": "RimShotEdge",
+  "layer": 10,
+  "velLo": 118,
+  "velHi": 127,
+  "start": 125280256,
+  "end": 125412556,
+  "vol": 3
+ },
+ {
+  "key": 33,
+  "name": "HatFootClose",
+  "layer": 1,
+  "velLo": 0,
+  "velHi": 12,
+  "start": 23091200,
+  "end": 23136911,
+  "vol": 3
+ },
+ {
+  "key": 33,
+  "name": "HatFootClose",
+  "layer": 2,
+  "velLo": 13,
+  "velHi": 25,
+  "start": 23145472,
+  "end": 23192892,
+  "vol": -4
+ },
+ {
+  "key": 33,
+  "name": "HatFootClose",
+  "layer": 3,
+  "velLo": 26,
+  "velHi": 38,
+  "start": 23201792,
+  "end": 23243956,
+  "vol": -10
+ },
+ {
+  "key": 33,
+  "name": "HatFootClose",
+  "layer": 4,
+  "velLo": 39,
+  "velHi": 50,
+  "start": 23252992,
+  "end": 23295967,
+  "vol": -13
+ },
+ {
+  "key": 33,
+  "name": "HatFootClose",
+  "layer": 5,
+  "velLo": 51,
+  "velHi": 63,
+  "start": 23304192,
+  "end": 23347382,
+  "vol": -13
+ },
+ {
+  "key": 33,
+  "name": "HatFootClose",
+  "layer": 6,
+  "velLo": 64,
+  "velHi": 76,
+  "start": 23356416,
+  "end": 23400589,
+  "vol": -16
+ },
+ {
+  "key": 33,
+  "name": "HatFootClose",
+  "layer": 7,
+  "velLo": 77,
+  "velHi": 88,
+  "start": 23409664,
+  "end": 23453740,
+  "vol": -17
+ },
+ {
+  "key": 33,
+  "name": "HatFootClose",
+  "layer": 8,
+  "velLo": 89,
+  "velHi": 101,
+  "start": 23462912,
+  "end": 23507273,
+  "vol": -16
+ },
+ {
+  "key": 33,
+  "name": "HatFootClose",
+  "layer": 9,
+  "velLo": 102,
+  "velHi": 114,
+  "start": 23516160,
+  "end": 23558667,
+  "vol": -18
+ },
+ {
+  "key": 33,
+  "name": "HatFootClose",
+  "layer": 10,
+  "velLo": 115,
+  "velHi": 127,
+  "start": 23567360,
+  "end": 23611279,
+  "vol": -19
+ },
+ {
+  "key": 31,
+  "name": "HatFootSplash",
+  "layer": 1,
+  "velLo": 0,
+  "velHi": 12,
+  "start": 77079552,
+  "end": 77442773,
+  "vol": 7
+ },
+ {
+  "key": 31,
+  "name": "HatFootSplash",
+  "layer": 2,
+  "velLo": 13,
+  "velHi": 25,
+  "start": 77451264,
+  "end": 77809441,
+  "vol": 0
+ },
+ {
+  "key": 31,
+  "name": "HatFootSplash",
+  "layer": 3,
+  "velLo": 26,
+  "velHi": 38,
+  "start": 77817856,
+  "end": 78178013,
+  "vol": -6
+ },
+ {
+  "key": 31,
+  "name": "HatFootSplash",
+  "layer": 4,
+  "velLo": 39,
+  "velHi": 50,
+  "start": 78186496,
+  "end": 78567123,
+  "vol": -7
+ },
+ {
+  "key": 31,
+  "name": "HatFootSplash",
+  "layer": 5,
+  "velLo": 51,
+  "velHi": 63,
+  "start": 78575616,
+  "end": 78948327,
+  "vol": -9
+ },
+ {
+  "key": 31,
+  "name": "HatFootSplash",
+  "layer": 6,
+  "velLo": 64,
+  "velHi": 76,
+  "start": 78956544,
+  "end": 79338022,
+  "vol": -13
+ },
+ {
+  "key": 31,
+  "name": "HatFootSplash",
+  "layer": 7,
+  "velLo": 77,
+  "velHi": 88,
+  "start": 79346688,
+  "end": 79720141,
+  "vol": -14
+ },
+ {
+  "key": 31,
+  "name": "HatFootSplash",
+  "layer": 8,
+  "velLo": 89,
+  "velHi": 101,
+  "start": 79728640,
+  "end": 80099253,
+  "vol": -15
+ },
+ {
+  "key": 31,
+  "name": "HatFootSplash",
+  "layer": 9,
+  "velLo": 102,
+  "velHi": 114,
+  "start": 80107520,
+  "end": 80479352,
+  "vol": -17
+ },
+ {
+  "key": 31,
+  "name": "HatFootSplash",
+  "layer": 10,
+  "velLo": 115,
+  "velHi": 127,
+  "start": 80488448,
+  "end": 80840939,
+  "vol": -20
+ },
+ {
+  "key": 53,
+  "name": "RideBell",
+  "layer": 1,
+  "velLo": 0,
+  "velHi": 16,
+  "start": 80849920,
+  "end": 81260026,
+  "vol": 9
+ },
+ {
+  "key": 53,
+  "name": "RideBell",
+  "layer": 2,
+  "velLo": 17,
+  "velHi": 27,
+  "start": 81268736,
+  "end": 81676770,
+  "vol": 1
+ },
+ {
+  "key": 53,
+  "name": "RideBell",
+  "layer": 3,
+  "velLo": 28,
+  "velHi": 41,
+  "start": 81685504,
+  "end": 82169634,
+  "vol": -2
+ },
+ {
+  "key": 53,
+  "name": "RideBell",
+  "layer": 4,
+  "velLo": 42,
+  "velHi": 59,
+  "start": 82178048,
+  "end": 82694087,
+  "vol": -5
+ },
+ {
+  "key": 53,
+  "name": "RideBell",
+  "layer": 5,
+  "velLo": 60,
+  "velHi": 74,
+  "start": 82702336,
+  "end": 83207699,
+  "vol": -9
+ },
+ {
+  "key": 53,
+  "name": "RideBell",
+  "layer": 6,
+  "velLo": 75,
+  "velHi": 85,
+  "start": 83216384,
+  "end": 83722029,
+  "vol": -11
+ },
+ {
+  "key": 53,
+  "name": "RideBell",
+  "layer": 7,
+  "velLo": 86,
+  "velHi": 95,
+  "start": 83730432,
+  "end": 84241162,
+  "vol": -11
+ },
+ {
+  "key": 53,
+  "name": "RideBell",
+  "layer": 8,
+  "velLo": 96,
+  "velHi": 106,
+  "start": 84249600,
+  "end": 84753984,
+  "vol": -10
+ },
+ {
+  "key": 53,
+  "name": "RideBell",
+  "layer": 9,
+  "velLo": 107,
+  "velHi": 118,
+  "start": 84762624,
+  "end": 85288361,
+  "vol": -11
+ },
+ {
+  "key": 53,
+  "name": "RideBell",
+  "layer": 10,
+  "velLo": 119,
+  "velHi": 127,
+  "start": 85297152,
+  "end": 86005137,
+  "vol": -11
+ },
+ {
+  "key": 52,
+  "name": "RideEdge",
+  "layer": 1,
+  "velLo": 0,
+  "velHi": 18,
+  "start": 91470848,
+  "end": 91992067,
+  "vol": 13
+ },
+ {
+  "key": 52,
+  "name": "RideEdge",
+  "layer": 2,
+  "velLo": 19,
+  "velHi": 34,
+  "start": 92001280,
+  "end": 92529044,
+  "vol": 4
+ },
+ {
+  "key": 52,
+  "name": "RideEdge",
+  "layer": 3,
+  "velLo": 35,
+  "velHi": 44,
+  "start": 92537856,
+  "end": 93062458,
+  "vol": 0
+ },
+ {
+  "key": 52,
+  "name": "RideEdge",
+  "layer": 4,
+  "velLo": 45,
+  "velHi": 62,
+  "start": 93071360,
+  "end": 93596282,
+  "vol": -1
+ },
+ {
+  "key": 52,
+  "name": "RideEdge",
+  "layer": 5,
+  "velLo": 63,
+  "velHi": 78,
+  "start": 93604864,
+  "end": 94127790,
+  "vol": -6
+ },
+ {
+  "key": 52,
+  "name": "RideEdge",
+  "layer": 6,
+  "velLo": 79,
+  "velHi": 88,
+  "start": 94136320,
+  "end": 94654529,
+  "vol": -8
+ },
+ {
+  "key": 52,
+  "name": "RideEdge",
+  "layer": 7,
+  "velLo": 89,
+  "velHi": 99,
+  "start": 94663680,
+  "end": 95186210,
+  "vol": -9
+ },
+ {
+  "key": 52,
+  "name": "RideEdge",
+  "layer": 8,
+  "velLo": 100,
+  "velHi": 110,
+  "start": 95195136,
+  "end": 95713868,
+  "vol": -12
+ },
+ {
+  "key": 52,
+  "name": "RideEdge",
+  "layer": 9,
+  "velLo": 111,
+  "velHi": 121,
+  "start": 95722496,
+  "end": 96243544,
+  "vol": -12
+ },
+ {
+  "key": 52,
+  "name": "RideEdge",
+  "layer": 10,
+  "velLo": 122,
+  "velHi": 127,
+  "start": 96251904,
+  "end": 97152337,
+  "vol": -14
+ },
+ {
+  "key": 28,
+  "name": "CrashLStop",
+  "layer": 1,
+  "velLo": 0,
+  "velHi": 12,
+  "start": 10593280,
+  "end": 10711359,
+  "vol": 15
+ },
+ {
+  "key": 28,
+  "name": "CrashLStop",
+  "layer": 2,
+  "velLo": 13,
+  "velHi": 25,
+  "start": 10720256,
+  "end": 10840021,
+  "vol": 6
+ },
+ {
+  "key": 28,
+  "name": "CrashLStop",
+  "layer": 3,
+  "velLo": 26,
+  "velHi": 38,
+  "start": 10848256,
+  "end": 10971536,
+  "vol": 1
+ },
+ {
+  "key": 28,
+  "name": "CrashLStop",
+  "layer": 4,
+  "velLo": 39,
+  "velHi": 50,
+  "start": 10980352,
+  "end": 11099046,
+  "vol": -3
+ },
+ {
+  "key": 28,
+  "name": "CrashLStop",
+  "layer": 5,
+  "velLo": 51,
+  "velHi": 63,
+  "start": 11107328,
+  "end": 11220536,
+  "vol": -7
+ },
+ {
+  "key": 28,
+  "name": "CrashLStop",
+  "layer": 6,
+  "velLo": 64,
+  "velHi": 76,
+  "start": 11229184,
+  "end": 11343770,
+  "vol": -11
+ },
+ {
+  "key": 28,
+  "name": "CrashLStop",
+  "layer": 7,
+  "velLo": 77,
+  "velHi": 88,
+  "start": 11352064,
+  "end": 11471325,
+  "vol": -11
+ },
+ {
+  "key": 28,
+  "name": "CrashLStop",
+  "layer": 8,
+  "velLo": 89,
+  "velHi": 101,
+  "start": 11480064,
+  "end": 11605416,
+  "vol": -13
+ },
+ {
+  "key": 28,
+  "name": "CrashLStop",
+  "layer": 9,
+  "velLo": 102,
+  "velHi": 114,
+  "start": 11614208,
+  "end": 11744700,
+  "vol": -13
+ },
+ {
+  "key": 28,
+  "name": "CrashLStop",
+  "layer": 10,
+  "velLo": 115,
+  "velHi": 127,
+  "start": 11753472,
+  "end": 11878819,
+  "vol": -11
+ },
+ {
+  "key": 29,
+  "name": "CrashRStop",
+  "layer": 1,
+  "velLo": 0,
+  "velHi": 12,
+  "start": 21911552,
+  "end": 22028668,
+  "vol": 18
+ },
+ {
+  "key": 29,
+  "name": "CrashRStop",
+  "layer": 2,
+  "velLo": 13,
+  "velHi": 25,
+  "start": 22037504,
+  "end": 22152295,
+  "vol": 10
+ },
+ {
+  "key": 29,
+  "name": "CrashRStop",
+  "layer": 3,
+  "velLo": 26,
+  "velHi": 38,
+  "start": 22161408,
+  "end": 22276078,
+  "vol": 5
+ },
+ {
+  "key": 29,
+  "name": "CrashRStop",
+  "layer": 4,
+  "velLo": 39,
+  "velHi": 50,
+  "start": 22284288,
+  "end": 22387625,
+  "vol": 1
+ },
+ {
+  "key": 29,
+  "name": "CrashRStop",
+  "layer": 5,
+  "velLo": 51,
+  "velHi": 63,
+  "start": 22395904,
+  "end": 22512043,
+  "vol": -5
+ },
+ {
+  "key": 29,
+  "name": "CrashRStop",
+  "layer": 6,
+  "velLo": 64,
+  "velHi": 76,
+  "start": 22520832,
+  "end": 22624524,
+  "vol": -10
+ },
+ {
+  "key": 29,
+  "name": "CrashRStop",
+  "layer": 7,
+  "velLo": 77,
+  "velHi": 88,
+  "start": 22633472,
+  "end": 22736506,
+  "vol": -12
+ },
+ {
+  "key": 29,
+  "name": "CrashRStop",
+  "layer": 8,
+  "velLo": 89,
+  "velHi": 101,
+  "start": 22745088,
+  "end": 22845011,
+  "vol": -11
+ },
+ {
+  "key": 29,
+  "name": "CrashRStop",
+  "layer": 9,
+  "velLo": 102,
+  "velHi": 114,
+  "start": 22853632,
+  "end": 22956825,
+  "vol": -11
+ },
+ {
+  "key": 29,
+  "name": "CrashRStop",
+  "layer": 10,
+  "velLo": 115,
+  "velHi": 127,
+  "start": 22965248,
+  "end": 23082956,
+  "vol": -12
+ }
+]

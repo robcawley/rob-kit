@@ -1,0 +1,80 @@
+{
+  "designSize": [
+    1180,
+    700
+  ],
+  "assets": [
+    {
+      "svg": "assets/crash-l.svg",
+      "png2x": "assets/crash-l@2x.png"
+    },
+    {
+      "svg": "assets/crash-r.svg",
+      "png2x": "assets/crash-r@2x.png"
+    },
+    {
+      "svg": "assets/hats.svg",
+      "png2x": "assets/hats@2x.png"
+    },
+    {
+      "svg": "assets/hit-halo.svg",
+      "png2x": "assets/hit-halo@2x.png"
+    },
+    {
+      "svg": "assets/kick.svg",
+      "png2x": "assets/kick@2x.png"
+    },
+    {
+      "svg": "assets/kit-scene.svg",
+      "png2x": "assets/kit-scene@2x.png"
+    },
+    {
+      "svg": "assets/knob-65f.svg",
+      "png2x": "assets/knob-65f@2x.png"
+    },
+    {
+      "svg": "assets/meter.svg",
+      "png2x": "assets/meter@2x.png"
+    },
+    {
+      "svg": "assets/panel-texture.svg",
+      "png2x": "assets/panel-texture@2x.png"
+    },
+    {
+      "svg": "assets/ride.svg",
+      "png2x": "assets/ride@2x.png"
+    },
+    {
+      "svg": "assets/screw.svg",
+      "png2x": "assets/screw@2x.png"
+    },
+    {
+      "svg": "assets/snare.svg",
+      "png2x": "assets/snare@2x.png"
+    },
+    {
+      "svg": "assets/splash.svg",
+      "png2x": "assets/splash@2x.png"
+    },
+    {
+      "svg": "assets/tom-high.svg",
+      "png2x": "assets/tom-high@2x.png"
+    },
+    {
+      "svg": "assets/tom-low.svg",
+      "png2x": "assets/tom-low@2x.png"
+    },
+    {
+      "svg": "assets/tom-mid.svg",
+      "png2x": "assets/tom-mid@2x.png"
+    },
+    {
+      "svg": "assets/wordmark.svg",
+      "png2x": "assets/wordmark@2x.png"
+    }
+  ],
+  "layout": "assets/kit-layout.json",
+  "parameters": "parameter-bindings.json",
+  "fonts": "assets/fonts/",
+  "licenses": "assets/fonts/OFL-*.txt"
+}

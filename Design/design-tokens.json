@@ -1,0 +1,30 @@
+{
+  "size": {
+    "width": 1180,
+    "height": 700
+  },
+  "colors": {
+    "background": "#090e12",
+    "panel": "#121b20",
+    "text": "#e7eadf",
+    "muted": "#8d9d9e",
+    "border": "#2d383b",
+    "lime": "#c4fb58",
+    "cyan": "#68dfdd",
+    "brass": "#dfb56c",
+    "red": "#ee6358",
+    "pink": "#ed83bc"
+  },
+  "fonts": {
+    "display": "Rajdhani",
+    "readouts": "Share Tech Mono"
+  },
+  "groupAccents": {
+    "kick": "lime",
+    "snare": "cyan",
+    "hats": "cyan",
+    "toms": "red",
+    "cymbals": "brass",
+    "perc": "pink"
+  }
+}

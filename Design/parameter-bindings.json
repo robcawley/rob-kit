@@ -1,0 +1,298 @@
+[
+  {
+    "id": "feel_dynamics",
+    "label": "DYNAMICS",
+    "min": 0,
+    "max": 1,
+    "default": 0.6,
+    "unit": "%"
+  },
+  {
+    "id": "feel_human",
+    "label": "HUMAN",
+    "min": 0,
+    "max": 1,
+    "default": 0.5,
+    "unit": "%"
+  },
+  {
+    "id": "feel_timing",
+    "label": "DRIFT",
+    "min": 0,
+    "max": 3,
+    "default": 0,
+    "unit": "ms"
+  },
+  {
+    "id": "kick_blend",
+    "label": "KICK BLEND",
+    "min": 0,
+    "max": 1,
+    "default": 0,
+    "unit": "%"
+  },
+  {
+    "id": "kick_sub",
+    "label": "SUB",
+    "min": 0,
+    "max": 1,
+    "default": 0.5,
+    "unit": "%"
+  },
+  {
+    "id": "snare_wires",
+    "label": "WIRES",
+    "min": 0,
+    "max": 1,
+    "default": 0.3,
+    "unit": "%"
+  },
+  {
+    "id": "hats_close",
+    "label": "HAT CLOSE",
+    "min": 8,
+    "max": 150,
+    "default": 45,
+    "unit": "ms"
+  },
+  {
+    "id": "bus_room",
+    "label": "ROOM",
+    "min": 0,
+    "max": 1,
+    "default": 0.2,
+    "unit": "%"
+  },
+  {
+    "id": "bus_room_size",
+    "label": "SIZE",
+    "min": 0,
+    "max": 1,
+    "default": 0.35,
+    "unit": "%"
+  },
+  {
+    "id": "bus_glue",
+    "label": "GLUE",
+    "min": 0,
+    "max": 1,
+    "default": 0.25,
+    "unit": "%"
+  },
+  {
+    "id": "bus_drive",
+    "label": "DRIVE",
+    "min": 0,
+    "max": 1,
+    "default": 0.1,
+    "unit": "%"
+  },
+  {
+    "id": "bus_width",
+    "label": "WIDTH",
+    "min": 0,
+    "max": 1.5,
+    "default": 1,
+    "unit": "%"
+  },
+  {
+    "id": "bus_output",
+    "label": "OUTPUT",
+    "min": -24,
+    "max": 6,
+    "default": 0,
+    "unit": "dB"
+  },
+  {
+    "id": "kick_level",
+    "label": "kick level",
+    "min": -48,
+    "max": 6,
+    "default": 0,
+    "unit": "dB"
+  },
+  {
+    "id": "kick_tune",
+    "label": "TUNE",
+    "min": -6,
+    "max": 6,
+    "default": 0,
+    "unit": "st"
+  },
+  {
+    "id": "kick_decay",
+    "label": "DECAY",
+    "min": 0.05,
+    "max": 1,
+    "default": 1,
+    "unit": "%"
+  },
+  {
+    "id": "kick_tone",
+    "label": "TONE",
+    "min": -1,
+    "max": 1,
+    "default": 0,
+    "unit": "%"
+  },
+  {
+    "id": "snare_level",
+    "label": "snare level",
+    "min": -48,
+    "max": 6,
+    "default": 0,
+    "unit": "dB"
+  },
+  {
+    "id": "snare_tune",
+    "label": "TUNE",
+    "min": -6,
+    "max": 6,
+    "default": 0,
+    "unit": "st"
+  },
+  {
+    "id": "snare_decay",
+    "label": "DECAY",
+    "min": 0.05,
+    "max": 1,
+    "default": 1,
+    "unit": "%"
+  },
+  {
+    "id": "snare_tone",
+    "label": "TONE",
+    "min": -1,
+    "max": 1,
+    "default": 0,
+    "unit": "%"
+  },
+  {
+    "id": "hats_level",
+    "label": "hats level",
+    "min": -48,
+    "max": 6,
+    "default": 0,
+    "unit": "dB"
+  },
+  {
+    "id": "hats_tune",
+    "label": "TUNE",
+    "min": -6,
+    "max": 6,
+    "default": 0,
+    "unit": "st"
+  },
+  {
+    "id": "hats_decay",
+    "label": "DECAY",
+    "min": 0.05,
+    "max": 1,
+    "default": 1,
+    "unit": "%"
+  },
+  {
+    "id": "hats_tone",
+    "label": "TONE",
+    "min": -1,
+    "max": 1,
+    "default": 0,
+    "unit": "%"
+  },
+  {
+    "id": "toms_level",
+    "label": "toms level",
+    "min": -48,
+    "max": 6,
+    "default": 0,
+    "unit": "dB"
+  },
+  {
+    "id": "toms_tune",
+    "label": "TUNE",
+    "min": -6,
+    "max": 6,
+    "default": 0,
+    "unit": "st"
+  },
+  {
+    "id": "toms_decay",
+    "label": "DECAY",
+    "min": 0.05,
+    "max": 1,
+    "default": 1,
+    "unit": "%"
+  },
+  {
+    "id": "toms_tone",
+    "label": "TONE",
+    "min": -1,
+    "max": 1,
+    "default": 0,
+    "unit": "%"
+  },
+  {
+    "id": "cymbals_level",
+    "label": "cymbals level",
+    "min": -48,
+    "max": 6,
+    "default": 0,
+    "unit": "dB"
+  },
+  {
+    "id": "cymbals_tune",
+    "label": "TUNE",
+    "min": -6,
+    "max": 6,
+    "default": 0,
+    "unit": "st"
+  },
+  {
+    "id": "cymbals_decay",
+    "label": "DECAY",
+    "min": 0.05,
+    "max": 1,
+    "default": 1,
+    "unit": "%"
+  },
+  {
+    "id": "cymbals_tone",
+    "label": "TONE",
+    "min": -1,
+    "max": 1,
+    "default": 0,
+    "unit": "%"
+  },
+  {
+    "id": "perc_level",
+    "label": "perc level",
+    "min": -48,
+    "max": 6,
+    "default": -2,
+    "unit": "dB"
+  },
+  {
+    "id": "perc_tune",
+    "label": "TUNE",
+    "min": -6,
+    "max": 6,
+    "default": 0,
+    "unit": "st"
+  },
+  {
+    "id": "perc_decay",
+    "label": "DECAY",
+    "min": 0.05,
+    "max": 1,
+    "default": 1,
+    "unit": "%"
+  },
+  {
+    "id": "perc_tone",
+    "label": "TONE",
+    "min": -1,
+    "max": 1,
+    "default": 0,
+    "unit": "%"
+  }
+]
